@@ -1,5 +1,7 @@
 # Lab8-Starter
 
+## [GitHub Pages](https://zaynashraf.github.io/Lab8_Starter/)
+
 ## Lab Partners: N/A
 
 ## Graceful Degradation and Service Workers
